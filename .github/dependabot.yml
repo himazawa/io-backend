@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    allow:
+    # Allow both direct and production updates for all packages
+    - dependency-type: "direct"
+    - dependency-type: "production"
