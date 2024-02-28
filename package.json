@@ -109,7 +109,7 @@
     "morgan": "^1.9.1",
     "newtype-ts": "^0.3.5",
     "node-fetch": "^2.6.1",
-    "passport": "^0.6.0",
+    "passport": "^0.1.0",
     "passport-auth-token": "^1.0.1",
     "passport-http-bearer": "^1.0.1",
     "passport-http-custom-bearer": "^1.0.15",
@@ -122,7 +122,7 @@
     "ulid": "^2.2.2",
     "validator": "^10.8.0",
     "winston": "^3.3.3",
-    "xmldom": "^0.6.0"
+    "xmldom": "0.1.0"
   },
   "devDependencies": {
     "@pagopa/eslint-config": "^3.0.0",
